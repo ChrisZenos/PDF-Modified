@@ -83,24 +83,6 @@ In PDF edit mode:
 - `data.json` contains personal plugin settings and is usually not suitable for publishing.
 - If you publish your own fork, please keep clear attribution to the original author and project.
 
-## Recommended Files For GitHub
-
-Recommended:
-
-```text
-main.js
-manifest.json
-styles.css
-README.md
-```
-
-Not recommended:
-
-```text
-data.json
-```
-
-`data.json` may include personal settings such as author name, colors, copy templates, auto-focus behavior, and other vault-specific preferences.
 
 ## Credits
 
